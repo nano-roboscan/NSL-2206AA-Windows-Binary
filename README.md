@@ -2,4 +2,5 @@
 NSL-2206AA-Windows-Binary
 
 Windows용으로 컴파일된 바이너리 입니다.
-압축을 풀고 NSL-2206AA.exe 를 실행 하십시오.
+구버전을 사용하는 경우 (v.3.1) 압축을 풀고 NSL-2206AA.exe 를 실행 하십시오.
+신규버전을 사용하는 경우 NSL-2206AA-Windows-Binary폴더의 nsl2206_viewer.exe 를 실행 하십시오.
